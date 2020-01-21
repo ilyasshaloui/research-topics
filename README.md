@@ -1,7 +1,7 @@
 # Rsesearch-topics
 
-https://arxiv.org/pdf/1109.2145.pdf
 
-Perseus: Randomized Point-based Value Iteration for POMDPs
 
-Folder contains notebook for Tiger Probelm (POMDP) with Perseus 
+- Perseus: Randomized Point-based Value Iteration for POMDPs from https://arxiv.org/pdf/1109.2145.pdf
+- MILP Maintenance model
+- MILP/RL optimization model applied to transport/control problem
